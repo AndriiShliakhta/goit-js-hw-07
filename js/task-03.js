@@ -18,4 +18,3 @@ const images = [
 			gallery.insertAdjacentHTML('beforeend', `<li><img src="${url}" alt="${alt}"></li>`);
 		});
 
-		// За одну операцію вставки. ТРЕБА ПОДУМАТИ.
